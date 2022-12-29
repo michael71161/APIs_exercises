@@ -11,4 +11,4 @@
    request to get the time in 24 h format. we used datetime module and split()
    method to get specific part from the response .
 - Also going contain ISS (international space station) passing API 
-- We will send notification if the ISS is passing by and its night time !! 
+- We will send an email with smtplib if the ISS is passing by and its night time !! 
